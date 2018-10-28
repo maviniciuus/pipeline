@@ -1,5 +1,5 @@
 {
-    "name": "league/pipeline",
+    "name": "maviniciuus/pipeline",
     "description": "A plug and play pipeline implementation.",
     "keywords": [
         "pipeline", "pattern", "sequential", "composition", "design pattern"
